@@ -1,0 +1,7 @@
+{:name "emacsification"
+ :version "0.0.1"
+ :author "Igor Korobov"
+ :source ""
+ :desc "A set of various commands that I miss in Light Table."
+ :behaviors "emacsification.behaviors"}
+
